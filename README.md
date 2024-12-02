@@ -1,4 +1,4 @@
-# Student-Creativity-Week-Research-Design-Implementation-of-Electric-Vehicle-Charging-Solar-Panels
+# Student-Creativity-Week-Research-Design-Implementation-of-Electric-Vehicle-Charging-Solar-Panels 2024/2025
 Student Creativity Week Research Title Design and Implementation of Electric Vehicle Charging System Using Solar Panels
 
 2 September 2024 
